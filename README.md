@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -22,11 +21,8 @@
 
 </details>
 
-
 ## Menú Principal :
 ![Screenshot_20220522-163602_Termux](https://user-images.githubusercontent.com/81049859/169715840-0b6cebdc-34c8-4789-976b-c6b7ff2fb3d4.png)
-
-
 
 ## Checker :
 ![Screenshot_20210724-112123_Termux](https://user-images.githubusercontent.com/81049859/126873326-b5cfba78-f2a0-4d5d-b79e-ca256746e045.png)
@@ -50,18 +46,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* `termux-setup-storage`
-
-* `apt update && apt upgrade -y`
-
-* `apt install ncurses-utils -y`
-
-* `pkg install -y git`
-
-* `gem install lolcat`
-
-* `apt install pv`
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * `git clone https://github.com/Juliocj7/CheckCj7`
 
 * `cd CheckCj7`
