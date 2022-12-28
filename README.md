@@ -23,13 +23,13 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220522-163602_Termux](https://user-images.githubusercontent.com/81049859/169715840-0b6cebdc-34c8-4789-976b-c6b7ff2fb3d4.png)
+![Screenshot_20221228-131741_Termux](https://user-images.githubusercontent.com/81049859/209852550-c01ff2fa-ee8e-468d-9fb7-8c8f5e825a1c.png)
 
 ## Checker :
-![Screenshot_20210724-112123_Termux](https://user-images.githubusercontent.com/81049859/126873326-b5cfba78-f2a0-4d5d-b79e-ca256746e045.png)
+![Screenshot_20221228-133216_Termux](https://user-images.githubusercontent.com/81049859/209852838-c21f9f0d-ddfb-4cde-b8fb-eeddad9ca6a1.png)
 
 ## Extrapolador :
-![Screenshot_20210724-110609_Termux](https://user-images.githubusercontent.com/81049859/126873335-1aaff2a4-9e5c-4e96-87c6-38106f479ed6.png)
+![Screenshot_20221228-132911_Termux](https://user-images.githubusercontent.com/81049859/209852856-b1d9da5f-b93d-4f42-bc67-5af81535703f.png)
 
 ## CheckCj7 :
 * Genera **tarjetas de crédito** y verifica el estado de las mismas usando un checker para saber si la CC está LIVE.
