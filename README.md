@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![1000328540](https://github.com/Juliocj7/CheckCj7/assets/81049859/8700e6db-a08d-483f-9f10-6be7dbeeb715)
+![1000328543](https://github.com/Juliocj7/CheckCj7/assets/81049859/8bdb8a64-2392-4088-afee-f3113da114ee)
 
 ## Checker :
 ![1000328541](https://github.com/Juliocj7/CheckCj7/assets/81049859/2715131c-713f-44d5-9aff-62f00c5a9646)
