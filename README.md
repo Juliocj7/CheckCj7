@@ -70,15 +70,19 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de CheckCj
 * Esta herramienta realiza un **pequeño cargo** a la tarjeta, para así marcarla como LIVE (viva) o DIE (muerta).
 * Con Lives puedes realizar **suscripciones** a plataformas de streaming y muy probablemente en compras físicas.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
-- > ` By: ⍣᭕ᬁ᭖TrollScript᭖᭕ᬁ⍣ `
+- > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝚃𝚛𝚘𝚕𝚕𖤐𝚂𝚌𝚛𝚒𝚙𝚝᭖᭕ᬁ⍣ `
 
 # Instalación :
-> [!NOTE]  
-> Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
+> [!NOTE]
+> > <details>
+> >   <summary>&nbsp;𝚁𝚎𝚚𝚞𝚒𝚜𝚒𝚝𝚘 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝𝚎 &#9995;&#127995;</summary>
+> >
+> > <sub>𝙸𝚗𝚜𝚝𝚊𝚕𝚕:</sub> [𝚁𝚎𝚌𝚞𝚛𝚜𝚘𝚜 𝚋𝚊𝚜𝚒𝚌𝚘𝚜](https://github.com/Juliocj7/UtilsCj7)
+> > </details>
 
 ###### 01. Actualizar paquetes
 ```shell
-yes|{apt update && apt upgrade}
+yes|{ apt update && apt upgrade; }
 ```
 ###### 02. Clonar repositorio
 ```shell
@@ -90,6 +94,27 @@ cd CheckCj7 && chmod +x * && ./CheckCj7
 ```
 
 ---
-###### `Pd: Porfavor informar cualquier error`
-###### `By: JulioCj7 +59179424937` :stuck_out_tongue_winking_eye:
+
+> [!CAUTION]
+> > <sub>𝚂𝚘𝚛𝚛𝚢, 𝚝𝚑𝚒𝚜 𝚒𝚜 𝚞𝚗𝚍𝚎𝚛 𝚖𝚊𝚒𝚗𝚝𝚎𝚗𝚊𝚗𝚌𝚎.</sub><br>
+> > <sub>¡ 𝙰𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚌𝚘𝚖𝚒𝚗𝚐 𝚜𝙾𝙾𝚗 !</sub>
+
 ---
+
+```ShellSession
+[𝙼𝚊𝚔𝚎@𝙱𝚢]:~$ #+59179424937 😜
+```
+
+<div align="center">
+  <sub>
+    
+  > 𝙿𝚘𝚛𝚏𝚊𝚟𝚘𝚛 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚛 𝚌𝚞𝚊𝚕𝚚𝚞𝚒𝚎𝚛 𝚎𝚛𝚛𝚘𝚛
+
+  </sub>
+</div>
+
+<div align="center">
+  <a href="#--------">
+    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
+  </a>
+</div>
