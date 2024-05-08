@@ -43,7 +43,7 @@ ______________________________________________________
 </div>
 
 ## Menú Principal :
-![1000328543](https://github.com/Juliocj7/CheckCj7/assets/81049859/8bdb8a64-2392-4088-afee-f3113da114ee)
+![1000341099](https://github.com/Juliocj7/CheckCj7/assets/81049859/8a744d81-7541-48d8-89b7-27cc536e18a3)
 
 <div align="justify">
   <details align="center">
@@ -59,7 +59,7 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de CheckCj
 </div>
 
 ## Checker :
-![1000332841](https://github.com/Juliocj7/CheckCj7/assets/81049859/9a0ca8dc-b20b-41a0-8f8d-945ddf638244)
+![1000341100](https://github.com/Juliocj7/CheckCj7/assets/81049859/091f5103-9b5f-422e-a6bb-b84699420b3a)
 
 ## Extrapolador :
 ![1000332842](https://github.com/Juliocj7/CheckCj7/assets/81049859/9d5a326d-6059-4b1c-a6f4-10b249cfea4a)
