@@ -57,11 +57,9 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de CheckCj
   </details>
 </div>
 
-## Checker :
-[![1000341100](https://github.com/user-attachments/assets/5c4ad39c-1caa-44ef-9ec9-ae7cce8a720f)](#---)
-
-## Extrapolador :
-[![1000332842](https://github.com/user-attachments/assets/1c70c332-c793-433e-986a-46faf0451d76)](#---)
+|𝚝𝚘𝚘𝚕|𝚝𝚘𝚘𝚕|
+|:----:|:----:|
+|[![1000341100](https://github.com/user-attachments/assets/5c4ad39c-1caa-44ef-9ec9-ae7cce8a720f)](#---)|[![1000332842](https://github.com/user-attachments/assets/1c70c332-c793-433e-986a-46faf0451d76)](#---)|
 
 ## CheckCj7 :
 * Genera **tarjetas de crédito** y verifica el estado de las mismas usando un checker para saber si la CC está LIVE.
