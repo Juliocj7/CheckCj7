@@ -42,7 +42,7 @@
 </div>
 
 ## Menú Principal :
-![1000341099](https://github.com/Juliocj7/CheckCj7/assets/81049859/8a744d81-7541-48d8-89b7-27cc536e18a3)
+[![1000341099](https://github.com/user-attachments/assets/82b2324b-71ba-41b8-b3e3-751ba017fb7a)](#---)
 
 <div align="justify">
   <details align="center">
@@ -58,10 +58,10 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de CheckCj
 </div>
 
 ## Checker :
-![1000341100](https://github.com/Juliocj7/CheckCj7/assets/81049859/091f5103-9b5f-422e-a6bb-b84699420b3a)
+[![1000341100](https://github.com/user-attachments/assets/5c4ad39c-1caa-44ef-9ec9-ae7cce8a720f)](#---)
 
 ## Extrapolador :
-![1000332842](https://github.com/Juliocj7/CheckCj7/assets/81049859/9d5a326d-6059-4b1c-a6f4-10b249cfea4a)
+[![1000332842](https://github.com/user-attachments/assets/1c70c332-c793-433e-986a-46faf0451d76)](#---)
 
 ## CheckCj7 :
 * Genera **tarjetas de crédito** y verifica el estado de las mismas usando un checker para saber si la CC está LIVE.
